@@ -164,13 +164,6 @@
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/kerolesayed"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=Keroles's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
 
 ## :trophy: Git profile Trophies
 
